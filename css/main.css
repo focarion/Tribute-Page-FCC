@@ -1,0 +1,77 @@
+body
+{
+  /* Typography */
+  font-family: 'Nunito', sans-serif;
+
+  /* Visual */
+  background-color: #BDC3C7;
+}
+#main{
+  /* Model */
+  display: block;
+
+  /* Visual */
+  margin: 0% 20% 0% 20%;
+  background-color: #D9CB9E;
+  border-radius: 25px;
+  padding: 2.5%;
+  box-shadow: 2px 5px 5px;
+}
+#img-div{
+  /* Model */
+  display: block;
+
+  /* Visual */
+  padding: 2.5% 0% 2.5% 0%;
+  border-radius: 25px;
+  background-color: #374140;
+  box-shadow: 5px 5px 5px;
+}
+#image{
+  /* Model */
+  display: block;
+  width: 90%;
+  height: 90%;
+
+  /* Visual */
+  border-radius: 25px;
+  margin-left: auto;
+  margin-right: auto;
+}
+#title{
+  /* Typography */
+  font-size: 3em;
+  color: #DC3522;
+  text-align: center;
+  /* Model */
+  display: block;
+  
+  /* Visual */
+  text-shadow: 0 0 5px #2A2C2B, 0 0 10px #2A2C2B, 0 0 15px #2A2C2B, 0 0 20px #2A2C2B,
+      0 0 35px #2A2C2B, 0 0 40px #2A2C2B, 0 0 50px #2A2C2B, 0 0 75px #2A2C2B;
+}
+#img-caption{
+  /* Typography */
+  text-align: center;
+  color: #BDC3C7;
+  font-weight: bold;
+
+  /* Model */
+  display: block;
+}
+#tribute-link{
+  /* Typography */
+  text-align: center;
+  color: #DC3522;
+  font-weight: bolder;
+
+  /* Model */
+  display: block;
+
+  /* Visual */
+  text-shadow: 0 0 5px #DC3522;
+}
+q{
+  /* Typography */
+  font-weight: bolder;
+}
